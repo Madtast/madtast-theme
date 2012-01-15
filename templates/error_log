@@ -1,0 +1,53 @@
+[01-Aug-2011 05:53:18] PHP Fatal error:  Call to undefined function  hide() in /home/madtastc/public_html/sites/all/themes/madtast/templates/node.tpl.php on line 8
+[01-Aug-2011 05:53:33] PHP Fatal error:  Call to undefined function  hide() in /home/madtastc/public_html/sites/all/themes/madtast/templates/node--microblog.tpl.php on line 8
+[01-Aug-2011 05:53:53] PHP Warning:  Invalid argument supplied for foreach() in /home/madtastc/public_html/sites/all/themes/madtast/templates/profile-block.tpl.php on line 35
+[01-Aug-2011 05:54:09] PHP Fatal error:  Call to undefined function  hide() in /home/madtastc/public_html/sites/all/themes/madtast/templates/node--blog.tpl.php on line 8
+[01-Aug-2011 05:54:49] PHP Fatal error:  Call to undefined function  render() in /home/madtastc/public_html/sites/all/themes/madtast/templates/user-profile.tpl.php on line 45
+[01-Aug-2011 05:58:02] PHP Fatal error:  Call to undefined function  render() in /home/madtastc/public_html/sites/all/themes/madtast/templates/comment.tpl.php on line 34
+[01-Aug-2011 06:00:26] PHP Fatal error:  Call to undefined function  hide() in /home/madtastc/public_html/sites/all/themes/madtast/templates/comment-microblog.tpl.php on line 8
+[01-Aug-2011 06:11:32] PHP Fatal error:  Call to undefined function  render() in /home/madtastc/public_html/sites/all/themes/madtast/templates/page.tpl.php on line 32
+[01-Aug-2011 06:15:18] PHP Fatal error:  Call to undefined function  views_embed_view() in /home/madtastc/public_html/sites/all/themes/madtast/templates/taxonomy-term.tpl.php on line 48
+[01-Aug-2011 06:21:43] PHP Warning:  Invalid argument supplied for foreach() in /home/madtastc/public_html/sites/all/themes/madtast/templates/profile-listing.tpl.php on line 47
+[02-Aug-2011 15:32:27] PHP Fatal error:  Call to undefined function  hide() in /home/madtastc/public_html/sites/all/themes/madtast/templates/node--microblog.tpl.php on line 8
+[02-Aug-2011 15:50:13] PHP Fatal error:  Call to undefined function  hide() in /home/madtastc/public_html/sites/all/themes/madtast/templates/comment-microblog.tpl.php on line 8
+[02-Aug-2011 16:10:58] PHP Fatal error:  Call to undefined function  hide() in /home/madtastc/public_html/sites/all/themes/madtast/templates/node.tpl.php on line 8
+[02-Aug-2011 16:46:46] PHP Fatal error:  Call to undefined function  views_embed_view() in /home/madtastc/public_html/sites/all/themes/madtast/templates/taxonomy-term.tpl.php on line 48
+[02-Aug-2011 18:06:17] PHP Warning:  Invalid argument supplied for foreach() in /home/madtastc/public_html/sites/all/themes/madtast/templates/profile-block.tpl.php on line 35
+[02-Aug-2011 18:23:09] PHP Fatal error:  Call to undefined function  render() in /home/madtastc/public_html/sites/all/themes/madtast/templates/user-profile.tpl.php on line 45
+[03-Aug-2011 16:19:54] PHP Warning:  Invalid argument supplied for foreach() in /home/madtastc/public_html/sites/all/themes/madtast/templates/profile-block.tpl.php on line 35
+[03-Aug-2011 16:22:18] PHP Fatal error:  Call to undefined function  hide() in /home/madtastc/public_html/sites/all/themes/madtast/templates/node.tpl.php on line 8
+[03-Aug-2011 16:25:00] PHP Fatal error:  Call to undefined function  hide() in /home/madtastc/public_html/sites/all/themes/madtast/templates/node--blog.tpl.php on line 8
+[03-Aug-2011 16:30:39] PHP Fatal error:  Call to undefined function  render() in /home/madtastc/public_html/sites/all/themes/madtast/templates/page.tpl.php on line 32
+[03-Aug-2011 16:44:46] PHP Fatal error:  Call to undefined function  views_embed_view() in /home/madtastc/public_html/sites/all/themes/madtast/templates/taxonomy-term.tpl.php on line 48
+[03-Aug-2011 16:53:15] PHP Warning:  Invalid argument supplied for foreach() in /home/madtastc/public_html/sites/all/themes/madtast/templates/profile-listing.tpl.php on line 47
+[03-Aug-2011 16:56:04] PHP Fatal error:  Call to undefined function  hide() in /home/madtastc/public_html/sites/all/themes/madtast/templates/comment-microblog.tpl.php on line 8
+[03-Aug-2011 17:07:20] PHP Fatal error:  Call to undefined function  render() in /home/madtastc/public_html/sites/all/themes/madtast/templates/user-profile.tpl.php on line 45
+[03-Aug-2011 17:35:06] PHP Fatal error:  Call to undefined function  render() in /home/madtastc/public_html/sites/all/themes/madtast/templates/comment.tpl.php on line 34
+[03-Aug-2011 19:17:07] PHP Fatal error:  Call to undefined function  hide() in /home/madtastc/public_html/sites/all/themes/madtast/templates/node--microblog.tpl.php on line 8
+[07-Aug-2011 00:05:46] PHP Fatal error:  Call to undefined function  hide() in /home/madtastc/public_html/sites/all/themes/madtast/templates/node--blog.tpl.php on line 8
+[07-Aug-2011 00:18:55] PHP Fatal error:  Call to undefined function  hide() in /home/madtastc/public_html/sites/all/themes/madtast/templates/node.tpl.php on line 8
+[07-Aug-2011 02:31:48] PHP Fatal error:  Call to undefined function  views_embed_view() in /home/madtastc/public_html/sites/all/themes/madtast/templates/taxonomy-term.tpl.php on line 48
+[07-Aug-2011 02:43:21] PHP Fatal error:  Call to undefined function  hide() in /home/madtastc/public_html/sites/all/themes/madtast/templates/comment-microblog.tpl.php on line 8
+[07-Aug-2011 02:51:05] PHP Fatal error:  Call to undefined function  hide() in /home/madtastc/public_html/sites/all/themes/madtast/templates/node--microblog.tpl.php on line 8
+[07-Aug-2011 03:23:30] PHP Warning:  Invalid argument supplied for foreach() in /home/madtastc/public_html/sites/all/themes/madtast/templates/profile-listing.tpl.php on line 47
+[07-Aug-2011 04:01:43] PHP Fatal error:  Call to undefined function  render() in /home/madtastc/public_html/sites/all/themes/madtast/templates/comment.tpl.php on line 34
+[07-Aug-2011 05:58:12] PHP Fatal error:  Call to undefined function  render() in /home/madtastc/public_html/sites/all/themes/madtast/templates/page.tpl.php on line 32
+[07-Aug-2011 06:07:01] PHP Fatal error:  Call to undefined function  render() in /home/madtastc/public_html/sites/all/themes/madtast/templates/user-profile.tpl.php on line 45
+[07-Aug-2011 07:40:05] PHP Warning:  Invalid argument supplied for foreach() in /home/madtastc/public_html/sites/all/themes/madtast/templates/profile-block.tpl.php on line 35
+[08-Aug-2011 05:36:38] PHP Warning:  Invalid argument supplied for foreach() in /home/madtastc/public_html/sites/all/themes/madtast/templates/profile-block.tpl.php on line 35
+[08-Aug-2011 05:36:38] PHP Fatal error:  Call to undefined function  render() in /home/madtastc/public_html/sites/all/themes/madtast/templates/page.tpl.php on line 32
+[08-Aug-2011 05:38:41] PHP Fatal error:  Call to undefined function  render() in /home/madtastc/public_html/sites/all/themes/madtast/templates/comment.tpl.php on line 34
+[08-Aug-2011 05:41:46] PHP Warning:  Invalid argument supplied for foreach() in /home/madtastc/public_html/sites/all/themes/madtast/templates/profile-listing.tpl.php on line 47
+[08-Aug-2011 05:47:57] PHP Fatal error:  Call to undefined function  hide() in /home/madtastc/public_html/sites/all/themes/madtast/templates/node.tpl.php on line 8
+[08-Aug-2011 06:06:30] PHP Fatal error:  Call to undefined function  hide() in /home/madtastc/public_html/sites/all/themes/madtast/templates/comment-microblog.tpl.php on line 8
+[08-Aug-2011 06:09:36] PHP Fatal error:  Call to undefined function  hide() in /home/madtastc/public_html/sites/all/themes/madtast/templates/node--blog.tpl.php on line 8
+[08-Aug-2011 06:12:42] PHP Fatal error:  Call to undefined function  hide() in /home/madtastc/public_html/sites/all/themes/madtast/templates/node--microblog.tpl.php on line 8
+[08-Aug-2011 10:08:15] PHP Fatal error:  Call to undefined function  views_embed_view() in /home/madtastc/public_html/sites/all/themes/madtast/templates/taxonomy-term.tpl.php on line 48
+[08-Aug-2011 10:10:57] PHP Fatal error:  Call to undefined function  render() in /home/madtastc/public_html/sites/all/themes/madtast/templates/user-profile.tpl.php on line 45
+[07-Sep-2011 03:41:18] PHP Fatal error:  Call to undefined function  render() in /home/madtastc/public_html/sites/all/themes/madtast/templates/comment.tpl.php on line 34
+[07-Sep-2011 04:11:05] PHP Fatal error:  Call to undefined function  hide() in /home/madtastc/public_html/sites/all/themes/madtast/templates/node--blog.tpl.php on line 8
+[07-Sep-2011 09:36:47] PHP Fatal error:  Call to undefined function  render() in /home/madtastc/public_html/sites/all/themes/madtast/templates/page.tpl.php on line 32
+[07-Sep-2011 10:06:17] PHP Warning:  Invalid argument supplied for foreach() in /home/madtastc/public_html/sites/all/themes/madtast/templates/profile-listing.tpl.php on line 47
+[17-Sep-2011 18:07:06] PHP Fatal error:  Call to undefined function  hide() in /home/madtastc/public_html/sites/all/themes/madtast/templates/node--blog.tpl.php on line 8
+[01-Oct-2011 11:05:45] PHP Fatal error:  Call to undefined function  hide() in /home/madtastc/public_html/sites/all/themes/madtast/templates/node--blog.tpl.php on line 8
+[07-Oct-2011 03:56:32] PHP Fatal error:  Call to undefined function  hide() in /home/madtastc/public_html/sites/all/themes/madtast/templates/node--blog.tpl.php on line 8

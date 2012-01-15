@@ -1,0 +1,384 @@
+/*Main*/
+
+  body {
+    font-family: "PT Sans";
+  }
+
+  /*General Site Styles*/
+
+    h1, h2 {
+      font-family: "Philosopher";
+    }
+
+    div.field-name-body p {
+      font-family: "Cantarell";
+    }
+
+  /*End General Site Styles*/
+
+  /*Custom Header Section*/
+
+    #header-logo {
+      width: 60px;
+      float: left;
+      position: relative;
+      top: -20px;
+      //top: -5px; //without slogan
+    }
+
+    #header {
+      background-image: url('/sites/all/themes/madtast/css/mtbg.png');
+      background-repeat: no-repeat;
+      background-position: top left;
+    }
+
+    #header-left {
+      width: 300px;
+      position: relative;
+      top: -3px;
+    }
+
+    hgroup.grid-10 {
+      width: 0px;
+      height: 0px;
+    }
+
+    h2.site-slogan {
+      width: 0px;
+      height: 0px;
+      display: none;
+    }
+
+    div.region-navigation {
+      float: right;
+      margin-top: 0;
+    }
+
+    #block-system-navigation ul li {
+      float: right;
+    }
+
+    #block-system-navigation {
+
+    }
+
+    #header-left {
+
+    }
+
+    #header-right {
+      //  position: relative;
+      //  left: 370px;
+      //  float: right;
+      //  width: 200px;
+      //  height: 80px;
+      //  overflow: hidden;
+      //  background-image: url('/sites/all/themes/madtast/css/mtbubbles.png');
+      //  background-repeat: no-repeat;
+      // background-position: top right;
+    }
+
+    #block-system-user-menu div div ul.menu {
+      margin-left: 10px;
+      list-style-type: none;
+    }
+
+    #block-system-user-menu div div ul li:before {
+      /* This is now at top #block-system-navigation div div ul li:before, */
+      content: "\0020 \0020 \0020 \00BB \0020";
+    }
+
+    h2.site-slogan {
+      position: relative;
+      top: -20px;
+      left: 57px;
+    }
+    
+    div.region-navigation {
+      width: inherit;
+    }
+    
+  /*Header Section End*/
+
+
+/*Block Content Section*/
+
+  #block-poll-recent ul.links {
+    margin-top: 1.4em;
+    list-style-type: none;
+  }
+
+  #block-user-login ul {
+    padding: 0px;
+    margin: 0px;
+  }
+
+  #block-user-login li { /* Eliminates text wrap and removes li dots */
+    padding-left: none;
+    list-style-type: none;
+    font-size: 11px;
+  }
+
+  .form-submit { /* Currently only used for polls and is not compatible with colors */
+    border: 1px solid #efedea;
+    background-color: #fff;
+  }
+
+  div.poll div.text, div.poll label {
+    /*  font-family: "Yanone Kaffeesatz"; */
+  }
+
+  div.content h3.field-label {
+    display: none;
+    overflow: hidden;
+  }
+
+  div.content img {
+    float: right;
+  }
+
+  article.node-poll div.vote-form {
+    float: left;
+  }
+
+  #block-poll-recent div.title { /* Add more space to poll block title */
+    font-size: 10px;
+  }
+  
+  #twitter_block_results div.twitter_block {
+    position: relative;
+    right: 15px;
+  }
+  
+  #block-twitter-block-default h2 {
+    padding-bottom: 17px;
+    border-bottom: solid 1px #E6E4DE
+  }
+  
+  #block-system-user-menu h2, #block-user-login h2 {
+    padding-bottom: 17px;
+    border-bottom: solid 1px #E6E4DE
+  }
+
+/*Block Content Section End*/
+
+
+/*Custom Page Content Section*/
+
+  /*Published Info & Tags - Layout changes */
+  
+    #content span.meta {
+      margin-top: 0em;
+    }
+
+    #content div.field-name-field-tags {
+      border-left: none;
+      margin-top: 0em;
+      margin-left: 0em;
+    }
+    
+  /*End*/
+
+body div form#views-exposed-form-series-list-page input#edit-field-genre-tid {
+  width: 350px;
+}
+
+article.node-blog div.field-type-media span.file-styles {
+	border: 0px;
+}
+
+
+body div.field-type-media img {
+	margin: 0px;
+	height: 100px;
+	width: 125px;
+	float: right;
+}
+
+article.blog-post div.content div.file-type-media img:nth-child(2n+1) {
+	margin: none;
+}
+
+/* node-movie */
+
+article.node-movie.content {
+  
+}
+
+article.node-movie div.content div.rate-widget div.rate-info {
+  color: #fff;
+}
+
+/* movie listings */
+
+.rate-info {
+  padding: 0px;
+  margin: 0px;
+  height: 10px;
+}
+
+/* /team */
+div.view-display-id-team {
+
+}
+
+div.view-display-id-team div.views-row {
+  float: left;
+  width: 100px;
+  text-align: center;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  background-color: #E0F8F7;
+  border: solid 1px #58ACFA;
+}
+
+div.view-display-id-team div.views-row-odd {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+div.view-display-id-team div.views-field-picture {
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 5px;
+  height: 100px;
+  width: 100px;
+}
+
+div.profile.position {
+  float: left;
+}
+
+.view-microblog {
+  margin-top: 5px;
+}
+
+.view-microblog .views-field-comments-link {
+  position: relative;
+  height: 0px;
+  top: -20px;
+  right: -445px;
+}
+
+.view-microblog .views-field-comment-count {
+  position: relative;
+  height: 0px;
+  top: -48px;
+  left: 13px;
+}
+
+.view-microblog .views-row {
+  margin-top: 5px;
+  padding: 5px;
+  background-color: #FFFAAA;
+}
+
+.view-microblog .views-field-comment-body {
+  background-image: url('Speech-Bubble.png');
+  background-position: left;
+  background-repeat: no-repeat;
+  font-size: 18px;
+//  border-bottom: 2px dotted #FFF444;
+}
+
+.view-microblog span.views-field-title {
+  font-size: 20px;
+  padding: 10px;
+
+}
+
+.view-microblog .views-field-last-comment-name {
+  margin-left: 45px;
+}
+
+views-field-comment-body {
+
+}
+
+.view-microblog div.microblog-entry {
+  margin-left: 40px;
+  padding: 5px;
+  height: 22px;
+  background-color: #FFFAAA;
+}
+
+.microblog-node-form .form-type-textfield {
+  width: 300px;
+}
+
+body {
+  font-family: "PT Sans";
+}
+
+/* Blog Styling */
+
+  /* Node */
+
+    div#views_slideshow_cycle_teaser_section_blog_slideshow-default
+    {
+      //height: 0px;
+      float: right;
+    }
+
+    div#views_slideshow_cycle_teaser_section_blog_slideshow-default img
+    {
+      //height: 0px;
+      margin-right: 0px;
+      //margin-left: 10px; //if more padding needed
+      //margin-bottom: 10px; //if more padding needed
+      float: right;
+    }
+
+    div.blog-right-box {
+      float: right;
+      overflow: show;
+      margin-right: 0px;
+      margin-left: 20px;
+    }
+
+    article .content img:nth-child(even) {
+      float: right;
+      margin: 0px;
+    }
+    
+    article .content img:nth-child(odd) {
+      float: right;
+      margin: 0px;
+    }
+
+/* End Blog Styling */
+
+
+/* Taxonomy & Blog Styling */
+
+  /* Series */
+
+    div#views_slideshow_cycle_teaser_section_taxonomy_slideshow-default
+    {
+      //height: 0px;
+      float: right;
+    }
+
+    div.taxonomy-right-box {
+      float: right;
+      width: 175px;
+      overflow: show;
+      padding-right: 5px;
+      padding-left: 20px;
+      padding-bottom: 10px;
+    }
+
+    /*Genre*/
+    body.page-taxonomy div.taxonomy-term div.taxonomy-genre {
+      width: 175px;
+      float: right;
+    }
+
+    /*Medium*/
+    body.page-taxonomy div.taxonomy-term div.taxonomy-type {
+      width: 175px;
+      float: right;
+    }
+

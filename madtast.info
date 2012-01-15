@@ -1,0 +1,43 @@
+; $Id$
+
+name = Madtast
+description = A minimal, re-colorable theme for Drupal 7 that uses HTML5 and the 960 Grid System.
+core = 7.x
+base theme = sky
+screenshot = screenshot.png
+
+
+; REGIONS
+;-------------------------------------------------------------------------------
+regions[page_top] = Page Top
+regions[header] = Header
+regions[header_left] = Header Left
+regions[header_right] = Header Right
+regions[navigation] = Navigation
+regions[highlighted] = Highlighted
+regions[help] = Help
+regions[content] = Content
+regions[sidebar_first] = Sidebar First
+regions[sidebar_second] = Sidebar Second
+regions[footer] = Footer
+regions[copyright] = Copyright
+regions[collapsible] = Collapsible
+regions[page_bottom] = Page Bottom
+
+
+
+; STYLESHEETS
+;-------------------------------------------------------------------------------
+stylesheets[all][] = color/colors.css
+stylesheets[all][] = css/stylesOverride.css
+
+; SCRIPTS
+;-------------------------------------------------------------------------------
+scripts[] = scripts/slideshow.js
+
+; Information added by drupal.org packaging script on 2011-01-07
+version = "7.x-1.4"
+core = "7.x"
+project = "madtast"
+datestamp = "1294361193"
+

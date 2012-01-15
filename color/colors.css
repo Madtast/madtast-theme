@@ -1,0 +1,147 @@
+n/* $Id */
+
+/* Page
+-------------------------------------------------------------------------*/
+html, body {
+  background-color: #efedea;
+  color: #000;  
+}
+
+
+/* Tabs
+-------------------------------------------------------------------------*/
+#skip-link a,
+.tabs a,
+.tabs a:visited {
+  background-color: #fffff9;
+  color: #101010;
+}
+#skip-link a,
+.tabs a:hover,
+.tabs a:focus,
+.tabs a:active,
+.tabs a.active,
+.tabs a.active:visited {
+  background-color: #efedeb;
+  color: #111111;
+}
+
+/* Links
+-------------------------------------------------------------------------*/
+a,
+a:visited {
+  color: #0679bd;
+}
+a:hover,
+a:focus,
+a:active {
+  color: #42a9be;  
+}
+.pager a:hover,
+.pager a:active,
+.pager a:focus {
+  background-color: #0679bd;
+  color: #fff;
+}
+
+
+/* Identity
+-------------------------------------------------------------------------*/
+h1.site-name a,
+h1.site-name a:visited {
+  color: #4c4742;   
+}
+h2.site-slogan {
+  color: #837b72; 
+}
+
+
+/* Header
+-------------------------------------------------------------------------*/
+.region-header,
+.region-navigation,
+.region-header h2.block-title,
+.region-navigation h2.block-title {
+  color: #101000;
+}
+.region-header a,
+.region-header a:visited {
+  color: #0679be;
+}
+.region-header a:hover,
+.region-header a:focus,
+.region-header a:active {
+  color: #42a9be;
+}
+
+
+/* Footer
+-------------------------------------------------------------------------*/
+.breadcrumb,
+footer.section,
+footer.section .block-title {
+  background-color: #e3e1df;
+  color: #010101;
+}
+.breadcrumb a,
+footer.section a,
+footer.section a:visited {
+ color: #0679bc; 
+}
+.breadcrumb a:hover,
+.breadcrumb a:focus,
+.breadcrumb a:active,
+footer.section a:hover,
+footer.section a:focus,
+footer.section a:active {
+  color: #42a9bc;
+}
+
+
+/* Navigation
+-------------------------------------------------------------------------*/
+.region-navigation .content ul a,
+.region-navigation .content ul a:visited {
+  background-color: #dbd9d6;
+  color: #594f45;
+}
+.region-navigation .content ul a:hover,
+.region-navigation .content ul a:focus,
+.region-navigation .content ul a:active,
+.region-navigation .content ul a.active,
+.region-navigation .content ul a.active:visited {
+  background-color: #fff;
+  color: #473e34;
+}
+
+
+/* Node links
+-------------------------------------------------------------------------*/
+article .links a,
+article .links a:visited {
+  background-color: #e7e5e3;
+  color: #54493e;
+}
+article .links a:hover,
+article .links a:focus,
+article .links a:active {
+  background-color: #d7d5d3;
+  color: #42382e;
+}
+
+/* Titles
+-------------------------------------------------------------------------*/
+h1.page-title {
+  color: #100001;
+}
+h2.block-title {
+  color: #675b50;
+}
+.comment header h3 a,
+h2.title a {
+  color: #100011;
+}
+
+/* Custom ... no?
+-------------------------------------------------------------------------*/
+
