@@ -149,6 +149,10 @@
     position: relative;
     right: 15px;
   }
+
+  #twitter_block_results div.twitter_block_user img {
+    display: none;
+  }
   
   #block-twitter-block-default h2 {
     padding-bottom: 17px;
